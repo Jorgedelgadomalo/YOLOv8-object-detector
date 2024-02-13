@@ -1,0 +1,5 @@
+names:
+- car
+nc: 1
+train: /content/gdrive/My Drive/Computer vision/Assignment/Data/images/train
+val: /content/gdrive/My Drive/Computer vision/Assignment/Data/images/val
